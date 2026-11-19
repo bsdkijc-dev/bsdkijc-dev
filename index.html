@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cecep Mustafa — Judicial Data &amp; AI Research</title>
+<meta name="description" content="Indonesian judicial open data, computational legal research and AI for institutional knowledge. Datasets, notebooks and code by Cecep Mustafa.">
+<link rel="canonical" href="https://bsdkijc-dev.github.io/bsdkijc-dev/">
+<style>
+  :root{--ink:#1d2430;--muted:#5b6574;--line:#dde2e8;--bg:#fbfaf7;--card:#fff;--accent:#7a1f2b;--accent-soft:#f4e9ea;--ok:#1f6b45;--wait:#8a5a00}
+  @media (prefers-color-scheme:dark){:root{--ink:#e8e6e1;--muted:#a3abb6;--line:#2c333d;--bg:#14181e;--card:#1b2028;--accent:#e08a95;--accent-soft:#2c1d21;--ok:#6fc79a;--wait:#e3b35c}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Georgia,"Iowan Old Style","Palatino Linotype",serif}
+  a{color:var(--accent)} a:hover{text-decoration-thickness:2px}
+  .wrap{max-width:980px;margin:0 auto;padding:0 22px}
+  header{border-bottom:1px solid var(--line)}
+  nav{display:flex;gap:18px;flex-wrap:wrap;padding:14px 0;font:14px/1.4 system-ui,sans-serif}
+  nav a{color:var(--muted);text-decoration:none} nav a:hover{color:var(--accent)}
+  .hero{padding:56px 0 40px}
+  .eyebrow{font:600 12px/1 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+  h1{font-size:clamp(30px,5vw,46px);line-height:1.15;margin:14px 0 10px;font-weight:600}
+  .role{font:15px/1.5 system-ui,sans-serif;color:var(--muted);margin:0 0 22px}
+  .statement{font-size:21px;max-width:720px;margin:0;border-left:3px solid var(--accent);padding-left:18px}
+  .links{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px;font:14px system-ui,sans-serif}
+  .links a{border:1px solid var(--line);background:var(--card);padding:7px 13px;border-radius:999px;text-decoration:none;color:var(--ink)}
+  .links a:hover{border-color:var(--accent);color:var(--accent)}
+  section{padding:34px 0;border-top:1px solid var(--line)}
+  h2{font-size:26px;margin:0 0 6px;font-weight:600}
+  .lede{color:var(--muted);margin:0 0 22px;max-width:720px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 18px 16px;display:flex;flex-direction:column}
+  .card h3{font-size:18px;margin:0 0 6px;line-height:1.3}
+  .card p{margin:0 0 12px;font-size:15px;color:var(--muted)}
+  .meta{margin-top:auto;display:flex;gap:8px;flex-wrap:wrap;align-items:center;font:13px system-ui,sans-serif}
+  .tag{padding:2px 8px;border-radius:4px;background:var(--accent-soft);color:var(--accent);font-weight:600}
+  .st-pub{color:var(--ok)} .st-wait{color:var(--wait)}
+  .meta a{text-decoration:none;font-weight:600}
+  .col-num{font:600 13px system-ui,sans-serif;color:var(--accent);letter-spacing:.08em}
+  .method{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;font:14px/1.5 system-ui,sans-serif}
+  .method div{border-top:2px solid var(--accent);padding-top:10px}
+  .method b{display:block;font-size:15px;margin-bottom:4px}
+  .empty{font-style:italic;color:var(--muted);font-size:15px}
+  footer{border-top:1px solid var(--line);padding:26px 0 40px;font:13px system-ui,sans-serif;color:var(--muted)}
+</style>
+</head>
+<body>
+<header><div class="wrap"><nav aria-label="Sections">
+  <a href="#research">Research</a><a href="#datasets">Datasets &amp; notebooks</a><a href="#technology">Technology</a><a href="#method">Method</a><a href="#about">About</a>
+</nav></div></header>
+
+<main class="wrap">
+  <div class="hero">
+    <div class="eyebrow">Judicial Data &amp; AI Research</div>
+    <h1>Cecep Mustafa</h1>
+    <p class="role">Judicial Policy Analyst · Legal Researcher · AI &amp; Institutional Knowledge Innovator<br>Indonesian Judicial College (IJC)</p>
+    <p class="statement">Bridging law, judicial policy, institutional knowledge and artificial intelligence to advance evidence-based and intelligent justice.</p>
+    <div class="links">
+      <a href="https://orcid.org/0000-0003-0037-497X">ORCID 0000-0003-0037-497X</a>
+      <a href="https://www.kaggle.com/judicialcollege">Kaggle</a>
+      <a href="https://github.com/bsdkijc-dev">GitHub</a>
+      <a href="https://www.cecepmustafa.my.id/home">Personal website</a>
+    </div>
+  </div>
+
+  <section id="research">
+    <h2>Research collections</h2>
+    <p class="lede">The work is organised into four collections. Each dataset keeps its source document, page and table, and every value carries an explicit verification status.</p>
+
+    <div class="col-num" id="datasets">COLLECTION 01</div>
+    <h3 style="font-size:22px;margin:4px 0 14px">Indonesia Judiciary Open Data</h3>
+    <div class="grid">
+      <article class="card">
+        <h3>Indonesia Master Court Registry 2026 (v0.9)</h3>
+        <p>Relational registry of Indonesian courts across the four judicial environments, reconciled against Mahkamah Agung RI decrees and 2026 PERKUSI civil-execution statistics. 906 courts verified individually; remaining courts are flagged as pending verification.</p>
+        <div class="meta"><span class="tag">Dataset</span><a href="https://github.com/bsdkijc-dev/indonesia-master-court-registry-2026">GitHub</a><span class="st-wait">Kaggle release in preparation</span></div>
+      </article>
+      <article class="card">
+        <h3>Mahkamah Agung RI Financial Reconciliation, FY2023–FY2025</h3>
+        <p>Structured tables from the audited financial statements of Mahkamah Agung RI: budget execution, court escrow funds, grants, state-loss receivables and capital projects, each with a reconciliation report.</p>
+        <div class="meta"><span class="tag">Dataset ×3</span><a href="https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2023">FY2023</a><a href="https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2024">FY2024</a><a href="https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2025">FY2025</a><a href="https://www.kaggle.com/datasets/judicialcollege/mahkamah-agung-ri-financial-reconciliation-2025">FY2025 on Kaggle</a><span class="st-pub">FY2025 public</span><span class="st-wait">FY2023–24 in preparation</span></div>
+      </article>
+      <article class="card">
+        <h3>Indonesian Court Transparency Scorecard</h3>
+        <p>Judiciary open-data tables for 2006–2011 and 2013, with selected 2016 and 2021 tables. The 2026–2028 file is a model projection, not reported data.</p>
+        <div class="meta"><span class="tag">Dataset</span><a href="https://www.kaggle.com/datasets/judicialcollege/indonesian-court-transparency-scorecard">Kaggle</a><a href="https://github.com/bsdkijc-dev/JPAIS">GitHub</a><span class="st-pub">Public</span></div>
+      </article>
+      <article class="card">
+        <h3>Indonesian Court Transparency EDA</h3>
+        <p>Python notebook that loads and inventories the scorecard tables. Analysis cells are being expanded.</p>
+        <div class="meta"><span class="tag">Notebook</span><a href="https://www.kaggle.com/code/judicialcollege/indonesian-court-transparency-eda">Kaggle</a><span class="st-pub">Public</span></div>
+      </article>
+    </div>
+
+    <div class="col-num" style="margin-top:30px">COLLECTION 02</div>
+    <h3 style="font-size:22px;margin:4px 0 10px">Rule of Law &amp; Judicial Governance</h3>
+    <p class="empty">Rule of Law 2045, judicial independence, access to justice and court performance datasets are in development. They will be listed here once verified.</p>
+
+    <div class="col-num" style="margin-top:30px">COLLECTION 03</div>
+    <h3 style="font-size:22px;margin:4px 0 10px">Computational Legal Research</h3>
+    <p class="empty">Judicial-decision metadata and legal-ontology work is under source and privacy review before release.</p>
+
+    <div class="col-num" style="margin-top:30px">COLLECTION 04</div>
+    <h3 style="font-size:22px;margin:4px 0 14px">AI &amp; Judicial Knowledge Engineering</h3>
+    <div class="grid">
+      <article class="card">
+        <h3>IJC Four-Mode Judicial Knowledge Management System</h3>
+        <p>Tables for knowledge objects, atomic claims, evidence provenance, verification quality gates and question-answer triage: a structure for traceable institutional knowledge.</p>
+        <div class="meta"><span class="tag">Dataset</span><a href="https://www.kaggle.com/datasets/judicialcollege/ijc-judicial-knowledge">Kaggle</a><a href="https://github.com/bsdkijc-dev/ijc-pipeline">GitHub</a><span class="st-pub">Public</span></div>
+      </article>
+      <article class="card">
+        <h3>JPAIS — Judicial Policy Analyst AI Suite</h3>
+        <p>Code for judicial-data pipelines, analysis notebooks and automation that connects document workflows, vector retrieval and knowledge graphs.</p>
+        <div class="meta"><span class="tag">Code</span><a href="https://github.com/bsdkijc-dev/JPAIS">JPAIS</a><a href="https://github.com/bsdkijc-dev/jpais-opai">OPAI</a><a href="https://github.com/bsdkijc-dev/jpais-automation-suite">Automation suite</a></div>
+      </article>
+    </div>
+  </section>
+
+  <section id="technology">
+    <h2>Technology</h2>
+    <p class="lede">Python and pandas for extraction and validation. Retrieval-augmented generation over legal documents, with Qdrant for vector search and Neo4j for legal knowledge graphs. GitHub Actions for automated validation. The registry's sync pipelines are in the <a href="https://github.com/bsdkijc-dev/indonesia-master-court-registry-2026/tree/main/pipelines">registry repository</a>.</p>
+  </section>
+
+  <section id="method">
+    <h2>Verification-first method</h2>
+    <div class="method">
+      <div><b>Source</b>Each value keeps its source URL, report year, page and table.</div>
+      <div><b>Status</b>Each value is marked VERIFIED, PARTIALLY_VERIFIED, UNVERIFIED or CONFLICT. Running code successfully is never treated as verification.</div>
+      <div><b>Labelled transformations</b>Normalised, calculated or projected values are labelled and kept apart from reported values.</div>
+      <div><b>Privacy</b>Personal and protected case information is removed or redacted before release.</div>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>About</h2>
+    <p class="lede" style="margin-bottom:0">Cecep Mustafa researches Indonesian judicial open data, rule of law and judicial governance, computational legal research, and AI-enabled institutional knowledge. His work is carried out with the Indonesian Judicial College (IJC). He builds reproducible, source-verified datasets and analytical workflows that connect law, data science and intelligent justice.</p>
+  </section>
+</main>
+
+<footer><div class="wrap">Data: CC BY 4.0 · Code: MIT. Please cite datasets with the CITATION.cff file in each repository. © 2026 Cecep Mustafa / Indonesian Judicial College (IJC). Page last updated 2026-11-19.</div></footer>
+</body>
+</html>
