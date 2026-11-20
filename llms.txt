@@ -1,0 +1,38 @@
+# Cecep Mustafa: judicial open data and AI research
+
+> Cecep Mustafa (ORCID 0000-0003-0037-497X, https://orcid.org/0000-0003-0037-497X) builds reproducible, source-checked open datasets and AI tools on the Indonesian judiciary, with the Indonesian Judicial College (IJC).
+
+Author: Cecep Mustafa
+Affiliation: Indonesian Judicial College (IJC)
+ORCID: https://orcid.org/0000-0003-0037-497X
+GitHub: https://github.com/bsdkijc-dev
+Kaggle: https://www.kaggle.com/judicialcollege
+Licences: data CC BY 4.0; code MIT
+
+## How to cite
+
+Datasets: Mustafa, C. (2026). <Dataset title> [Data set]. Kaggle. <dataset URL>
+Code: Mustafa, C. (2026). <Repository title> [Computer software]. GitHub. <repository URL>
+Each GitHub repository has a CITATION.cff file with the full citation.
+
+## Datasets (Kaggle, CC BY 4.0)
+
+- [Indonesia Master Court Registry 2026](https://www.kaggle.com/datasets/judicialcollege/indonesia-master-court-registry-2026)
+- [Indonesian Court Transparency Scorecard](https://www.kaggle.com/datasets/judicialcollege/indonesian-court-transparency-scorecard)
+- [Mahkamah Agung RI Financial Reconciliation FY2023](https://www.kaggle.com/datasets/judicialcollege/mahkamah-agung-ri-financial-reconciliation-2023)
+- [Mahkamah Agung RI Financial Reconciliation FY2024](https://www.kaggle.com/datasets/judicialcollege/mahkamah-agung-ri-financial-reconciliation-2024)
+- [Mahkamah Agung RI Financial Reconciliation FY2025](https://www.kaggle.com/datasets/judicialcollege/mahkamah-agung-ri-financial-reconciliation-2025)
+- [JPAIS Judicial Corpus (pilot legal ontology)](https://www.kaggle.com/datasets/judicialcollege/jpais-judicial-corpus)
+- [IJC Four-Mode Judicial Knowledge Management System](https://www.kaggle.com/datasets/judicialcollege/ijc-judicial-knowledge)
+
+## Code (GitHub, MIT)
+
+- [Indonesia Master Court Registry 2026 (code and data)](https://github.com/bsdkijc-dev/indonesia-master-court-registry-2026)
+- [Judicial Transparency Indonesia: FY 2023 Mahkamah Agung RI Financial Reconciliation](https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2023)
+- [Judicial Transparency Indonesia: FY 2024 Mahkamah Agung RI Financial Reconciliation](https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2024)
+- [Judicial Transparency Indonesia: FY 2025 Mahkamah Agung RI Financial Reconciliation](https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2025)
+- [JPAIS: Judicial Policy and Artificial Intelligence System](https://github.com/bsdkijc-dev/JPAIS)
+- [IJC Four-Mode Judicial Knowledge pipeline](https://github.com/bsdkijc-dev/ijc-pipeline)
+- [JPAIS OPAI Master Repository](https://github.com/bsdkijc-dev/jpais-opai)
+- [JPAIS Automation Suite](https://github.com/bsdkijc-dev/jpais-automation-suite)
+- [Legal AI Platform (deployment configuration)](https://github.com/bsdkijc-dev/legal-ai-platform)
