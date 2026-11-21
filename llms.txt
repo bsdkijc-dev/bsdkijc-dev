@@ -43,3 +43,31 @@ Each GitHub repository has a CITATION.cff file with the full citation.
 [Judicial Knowledge Hub](https://bsdkijc-dev.github.io/judicial-knowledge-hub/): 2,004 articles by Cecep Mustafa (IJC) on judicial policy, judicial education, legal AI and Indonesian Supreme Court precedents; one page per article with citation data, plus its own llms.txt. Cite as: Mustafa, C. (2026). Judicial Knowledge Hub [Wiki export]. Indonesian Judicial College (IJC). https://bsdkijc-dev.github.io/judicial-knowledge-hub/
 
 Also on [Kaggle](https://www.kaggle.com/datasets/judicialcollege/judicial-knowledge-hub-wiki-export-cecep-mustafa), [GitHub](https://github.com/bsdkijc-dev/judicial-knowledge-hub) and the [wiki](https://judicialknowledge.miraheze.org/wiki/Main_Page).
+
+## DOIs (all by Cecep Mustafa, ORCID 0000-0003-0037-497X, Indonesian Judicial College)
+
+Kaggle datasets (DataCite, publisher Kaggle):
+- Japan Judicial Knowledge Audio Series: https://doi.org/10.34740/kaggle/dsv/22556315
+- Judicial Knowledge Hub Wiki Export: https://doi.org/10.34740/kaggle/ds/13530737
+- Indonesian Court Transparency Scorecard: https://doi.org/10.34740/kaggle/dsv/22036381
+- Indonesia Master Court Registry 2026: https://doi.org/10.34740/kaggle/ds/13410482
+- IJC Four-Mode Judicial Knowledge Management System: https://doi.org/10.34740/kaggle/ds/12475591
+- IJC Four-Mode Judicial Knowledge Management System (2026): https://doi.org/10.34740/kaggle/ds/12935632
+- Electronic-Evidence Knowledge Base for Judicial AI: https://doi.org/10.34740/kaggle/ds/12935901
+- JPAIS Judicial Decisions & Legal Ontology: https://doi.org/10.34740/kaggle/ds/13052358
+- Mahkamah Agung RI FY2023 Financial Audit: https://doi.org/10.34740/kaggle/ds/13384135
+- Mahkamah Agung RI FY2024 Financial Audit: https://doi.org/10.34740/kaggle/ds/13383255
+- Mahkamah Agung RI FY2025 Financial Audit: https://doi.org/10.34740/kaggle/ds/13382383
+
+GitHub releases archived on Zenodo (DataCite, publisher Zenodo):
+- Japan Judicial Knowledge Audio Series: https://doi.org/10.5281/zenodo.24419950
+- Judicial Knowledge Hub (wiki export): https://doi.org/10.5281/zenodo.24419995
+- JPAIS: https://doi.org/10.5281/zenodo.24420147
+- JPAIS Automation Suite: https://doi.org/10.5281/zenodo.24419989
+- JPAIS OPAI: https://doi.org/10.5281/zenodo.24419997
+- Legal AI Platform: https://doi.org/10.5281/zenodo.24420017
+- Judicial Transparency Indonesia FY2023: https://doi.org/10.5281/zenodo.24420001
+- Judicial Transparency Indonesia FY2024: https://doi.org/10.5281/zenodo.24420270
+- Judicial Transparency Indonesia FY2025: https://doi.org/10.5281/zenodo.24420276
+
+All works are listed on ORCID: https://orcid.org/0000-0003-0037-497X
