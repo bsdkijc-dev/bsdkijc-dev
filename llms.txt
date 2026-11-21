@@ -36,3 +36,10 @@ Each GitHub repository has a CITATION.cff file with the full citation.
 - [JPAIS OPAI Master Repository](https://github.com/bsdkijc-dev/jpais-opai)
 - [JPAIS Automation Suite](https://github.com/bsdkijc-dev/jpais-automation-suite)
 - [Legal AI Platform (deployment configuration)](https://github.com/bsdkijc-dev/legal-ai-platform)
+
+
+## Knowledge base (CC BY-SA 4.0)
+
+[Judicial Knowledge Hub](https://bsdkijc-dev.github.io/judicial-knowledge-hub/): 2,004 articles by Cecep Mustafa (IJC) on judicial policy, judicial education, legal AI and Indonesian Supreme Court precedents; one page per article with citation data, plus its own llms.txt. Cite as: Mustafa, C. (2026). Judicial Knowledge Hub [Wiki export]. Indonesian Judicial College (IJC). https://bsdkijc-dev.github.io/judicial-knowledge-hub/
+
+Also on [Kaggle](https://www.kaggle.com/datasets/judicialcollege/judicial-knowledge-hub-wiki-export-cecep-mustafa), [GitHub](https://github.com/bsdkijc-dev/judicial-knowledge-hub) and the [wiki](https://judicialknowledge.miraheze.org/wiki/Main_Page).
