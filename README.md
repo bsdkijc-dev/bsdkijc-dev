@@ -1,6 +1,6 @@
 # Cecep Mustafa, S.H., L.L.M., Ph.D.
 
-**Judge & Researcher · Judicial Policy Analyst · Legal AI · Judicial Data Analytics · Knowledge Engineering**  
+**Researcher · Judicial Policy Analyst · Legal AI · Judicial Data Analytics · Knowledge Engineering**  
 Indonesian Judicial College (IJC) / BSDK Mahkamah Agung RI (Badan Strategi Kebijakan dan Diklat Hukum dan Peradilan, Mahkamah Agung Republik Indonesia)
 
 > Bridging law, judicial policy, institutional knowledge and artificial intelligence to advance evidence-based and intelligent justice.
