@@ -58,6 +58,21 @@ Kaggle datasets (DataCite, publisher Kaggle):
 - Mahkamah Agung RI FY2023 Financial Audit: https://doi.org/10.34740/kaggle/ds/13384135
 - Mahkamah Agung RI FY2024 Financial Audit: https://doi.org/10.34740/kaggle/ds/13383255
 - Mahkamah Agung RI FY2025 Financial Audit: https://doi.org/10.34740/kaggle/ds/13382383
+- JDCL UMKM Justice Survival Challenge (synthetic): https://doi.org/10.34740/kaggle/dsv/22717577
+- JDCL Open Judicial Metadata Toolkit (synthetic): https://doi.org/10.34740/kaggle/dsv/22717582
+- IJRIO - Indonesia PERMA Master Registry: https://doi.org/10.34740/kaggle/ds/13621600
+- Indonesia Open Justice Observatory (2024-2025): https://doi.org/10.34740/kaggle/ds/13596524
+- MA Open Justice Integration Observatory P1: https://doi.org/10.34740/kaggle/ds/13599933
+- People's Legal Knowledge Observatory (PLKO): https://doi.org/10.34740/kaggle/ds/13599037
+- Justice for UMKM Observatory Synthetic Pilot v1: https://doi.org/10.34740/kaggle/ds/13596972
+- ILJO v1.0: PHI Synthetic Pilot Dataset: https://doi.org/10.34740/kaggle/ds/13594780
+- Justice for the Last Mile Synthetic Pilot: https://doi.org/10.34740/kaggle/dsv/22664938
+- JRC Observatory: Rural Justice Pilot NTB & Jabar: https://doi.org/10.34740/kaggle/dsv/22662368
+- JNPDI Judicial Integrity (Synthetic): https://doi.org/10.34740/kaggle/dsv/22656613
+- JNPDI Digital Judiciary (Synthetic): https://doi.org/10.34740/kaggle/dsv/22656604
+- JNPDI Economic Justice (Synthetic): https://doi.org/10.34740/kaggle/dsv/22656594
+- JNPDI Access to Justice (Synthetic): https://doi.org/10.34740/kaggle/dsv/22656584
+- JNPDI Judicial Performance (Synthetic): https://doi.org/10.34740/kaggle/dsv/22656573
 
 GitHub releases archived on Zenodo (DataCite, publisher Zenodo):
 - Japan Judicial Knowledge Audio Series: https://doi.org/10.5281/zenodo.24419950
