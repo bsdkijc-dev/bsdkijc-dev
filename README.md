@@ -1,4 +1,18 @@
+<div align="center">
+
+<img src="assets/logo.png" alt="Cecep Mustafa, S.H., L.L.M., Ph.D. Logo" width="140">
+
 # Cecep Mustafa, S.H., L.L.M., Ph.D.
+
+### Bridging law, judicial policy, institutional knowledge, and artificial intelligence.
+
+![Stack](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) [![Website](https://img.shields.io/badge/GitHub_Pages-Live-2ea44f?style=flat&logo=github)](https://bsdkijc-dev.github.io/bsdkijc-dev/) [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/judicialcollege)
+
+[Documentation](https://bsdkijc-dev.github.io/bsdkijc-dev/) · [Website](https://bsdkijc-dev.github.io/bsdkijc-dev/) · [Kaggle](https://www.kaggle.com/judicialcollege) · [Repository](https://github.com/bsdkijc-dev/bsdkijc-dev)
+
+</div>
+
+---
 
 **Judge & Researcher · Judicial Policy Analyst · Legal AI · Judicial Data Analytics · Knowledge Engineering**  
 Indonesian Judicial College (IJC) / BSDK Mahkamah Agung RI (Badan Strategi Kebijakan dan Diklat Hukum dan Peradilan, Mahkamah Agung Republik Indonesia)
@@ -43,3 +57,13 @@ Indonesian Judicial College (IJC) / BSDK Mahkamah Agung RI (Badan Strategi Kebij
 Verification-first. Every value keeps its source document, page and table, and an explicit status: `VERIFIED`, `PARTIALLY_VERIFIED`, `UNVERIFIED` or `CONFLICT`. Code that runs successfully is not verification. Personal data is redacted before release.
 
 <sub>Data: CC BY 4.0 · Code: MIT · © 2026 Cecep Mustafa / Indonesian Judicial College (IJC)</sub>
+
+---
+
+<div align="center">
+
+**Cecep Mustafa, S.H., L.L.M., Ph.D.**
+
+[github.com/bsdkijc-dev/bsdkijc-dev](https://github.com/bsdkijc-dev/bsdkijc-dev)
+
+</div>
